@@ -6,8 +6,8 @@ Sou um estudante, no momento cursando o terceiro período de análise e desenvol
 
 <div align="center">
   <a href="https://github.com/JJrCosta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JJrCosta&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJrCosta&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JJrCosta&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJrCosta&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
 </div>
   
 ### Linguagens
