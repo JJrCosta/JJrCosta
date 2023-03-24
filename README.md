@@ -1,9 +1,7 @@
-<h1 align="center">Seja bem vindo, Dev.</h1>
+<h1 align="center">Welcome Dev</h1>
 <hr>
-<h2 align="center">🚧 Perfil em manutenção 🚧</h2>  
-<p>Aqui você encontrará os exercícos e projetos de desenvolvimento que venho aprendendo e praticando em diversos plataformas, da Universidade aos bootcamps gratuitos disponíveis pela Web. <br>
-Apaixonado por Tecnologia, Programação, Games, Quadrinhos, Animes, Mangás e PRINCIPALMENTE CAFÉ.<br>
-Sinta-se a vontade para entrar em contato caso queira bater um papo, dar dicas, feedbacks pedir ajuda, montar grupo de estudos. Estou a disposição. Vamos trocar idéias? </p>
+<h2 align="center">🚧 Profile status: Always in maintenance 🚧</h2>  
+<p>Hey guys, my name is Junior Costa and I'm a student of Software Engineering, Analysis, and System Development! 🎓💻 When I'm not studying, I enjoy watching anime, playing my favorite games, and binge-watching horror, fantasy, magic, and daily life series and movies. 🧟🔮📺</br></br>In addition, I'm passionate about design, coding, RPGs, and of course, pasta and coffee. ☕🍝 My goal is to become a fullstack web developer, but my ultimate dream  is to become a game designer! 🎮💭</br></br>I speak English, but I'm not fluent yet, so excuse any mistakes haha 😅 And for those who want to know, I already know HTML, CSS, JS, Bootstrap, PHP, SQL, GIT, and Figma. Shall we code together? 🤓💻</p>
 <hr>
 <div align="center">
     <a href="https://github.com/JJrCosta">
@@ -11,7 +9,7 @@ Sinta-se a vontade para entrar em contato caso queira bater um papo, dar dicas, 
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJrCosta&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
 </div>
     
-<h2 align="center">🚧 Aprimorando 🚧</h2>  
+<h2 align="center">🚧 Working on it 🚧</h2>  
     
 <div style="display: inline_block" align="center"><br> 
     <img align="center" alt="JJrCosta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -19,4 +17,8 @@ Sinta-se a vontade para entrar em contato caso queira bater um papo, dar dicas, 
     <img align="center" alt="JJrCosta-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="JJrCosta-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />     
     <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img  align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />    
+    <img  align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
