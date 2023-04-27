@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red">Welcome Dev</h1>
+<h1 align="center" style="color: red;">Welcome Dev</h1>
 <hr>
 <h2 align="center">🚧 Profile status: Always in maintenance 🚧</h2>  
 <p>Hey guys, my name is Junior Costa and I'm a student of Software Engineering, Analysis, and System Development! 🎓💻 When I'm not studying, I enjoy watching anime, playing my favorite games, and binge-watching horror, fantasy, magic, and daily life series and movies. 🧟🔮📺</br></br>In addition, I'm passionate about design, coding, RPGs, and of course, pasta and coffee. ☕🍝 My goal is to become a fullstack developer.</br></br>I speak English, but I'm not fluent yet, so excuse any mistakes haha 😅 And for those who want to know, I already know HTML, CSS, JS, Bootstrap, SASS, PHP, SQL, GIT, and lill Figma. Shall we code together? 🤓💻</p>
