@@ -1,9 +1,9 @@
-<h1 align="center" style="color: red;">Welcome Dev</h1>
+<h1 align="center">Welcome Dev</h1>
 <hr>
 <h2 align="center">🚧 Profile status: Always in maintenance 🚧</h2>  
 <p>Hey guys, my name is Junior Costa and I'm a student of Software Engineering, Analysis, and System Development! 🎓💻 When I'm not studying, I enjoy watching anime, playing my favorite games, and binge-watching horror, fantasy, magic, and daily life series and movies. 🧟🔮📺</br></br>In addition, I'm passionate about design, coding, RPGs, and of course, pasta and coffee. ☕🍝 My goal is to become a fullstack developer.</br></br>I speak English, but I'm not fluent yet, so excuse any mistakes haha 😅 And for those who want to know, I already know HTML, CSS, JS, Bootstrap, SASS, PHP, SQL, GIT, and lill Figma. Shall we code together? 🤓💻</p>
 <hr>
-<div align="center">
+<div align="left">
     <a href="https://github.com/JJrCosta">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JJrCosta&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJrCosta&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
