@@ -5,7 +5,6 @@
 <hr>
 <div align="center">
     <a href="https://github.com/JJrCosta">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JJrCosta&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJrCosta&layout=compact&langs_count=7&theme=merko&locale=pt-br"/>
 </div>
     
@@ -15,11 +14,11 @@
     <img align="center" alt="JJrCosta-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="JJrCosta-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="JJrCosta-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="JJrCosta-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
-    <img align="center" alt="JJrCosta-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
+    <img align="center" alt="JJrCosta-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
+    <img align="center" alt="JJrCosta-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="JJrCosta-Visual-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img  align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />    
-    <img  align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="JJrCosta-Visual-Studio-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" alt="JJrCosta-Visual-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />    
+    <img align="center" alt="JJrCosta-Visual-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="JJrCosta-Visual-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
